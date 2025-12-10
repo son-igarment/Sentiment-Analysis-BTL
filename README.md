@@ -1,4 +1,5 @@
-# NLP_BTL# Phân tích cảm xúc VLSP (TextCNN/BiLSTM/CNN+BiLSTM)
+# NLP_BTL
+# Phân tích cảm xúc VLSP (TextCNN/BiLSTM/CNN+BiLSTM)
 Thông tin liên lạc
 Email:plnson.sdh242@hcmut.edu.vn
 Số điện thoại/ Zalo: 0334229371 
